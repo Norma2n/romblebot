@@ -4,7 +4,7 @@
 
 **This bot was made by Sugarlydumpbump#4571.**
 
-**Probably it's gonna be just in spanish, so writting this in english might be **
+**Probably it's gonna be just in spanish, so writting this in english might be just for style or decoration.**
 
 ## Features
 
